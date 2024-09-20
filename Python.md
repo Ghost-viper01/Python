@@ -13,3 +13,13 @@ __**Python**__ is a high-level, general-purpose programming language known for i
 - 📟Dynamic Typing
 - 💻Object-Oriented Programming
 - 📕Large Community
+
+=>Dmerits of python
+
+- 📱slower Performance
+- 💾Memory Usage
+- 🖥Global Interpreter Lock (GIL)
+- ⌨Not handeled Dynamic Typing
+- 💻Indentation Sensitivity
+- 📲Limited Mobile Development
+- 📟Starter Language
